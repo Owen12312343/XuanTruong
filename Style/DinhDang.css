@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:auto;
+}
+.khung{
+	width: 960px;
+	height: 120px;
+	background: #DFDFDF;
+}
+.menu b{
+	padding-left: 20px;
+}
+.NgonNgu{
+	transform: translate(840px,-16px)
+}
