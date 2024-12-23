@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin: auto;}
+.khung{
+	border: 1px solid white;
+	width: 960px;
+}
+.anh{
+	background:url("../imger/1.jpg");
+	height: 112px;
+	color: red;
+}
+.chu{
+	background:#F5F5F5;
+	border: 1px solid white;
+	height: 50px;
+}
+.chu b {
+	padding: 5px;
+}
+.chu a{
+	float:right;
+}
